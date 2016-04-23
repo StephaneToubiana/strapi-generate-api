@@ -70,12 +70,12 @@ module.exports = {
    * Lifecycle callbacks on destroy
    */
 
-  // Before updating a value.
+  // Before destroying a value.
   // beforeDestroy: function (criteria, next) {
   //   next();
   // },
 
-  // After updating a value.
+  // After destroying a value.
   // afterDestroy: function (destroyedRecords, next) {
   //   next();
   // }
